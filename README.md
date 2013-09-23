@@ -1,1 +1,1 @@
-Erstes Beispielprojekt umd die Verwendung Maven3, Gradle und Groovy zu zeigen.
+Erstes Beispielprojekt um die Verwendung von Maven3 und Gradle mit Groovy und Java zu zeigen.
